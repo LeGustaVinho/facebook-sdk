@@ -11,7 +11,7 @@
     "url": "git+https://github.com/LeGustaVinho/facebook-sdk.git"
   },
   "dependencies": {
-    "com.google.external-dependency-manager": "1.2.161",
+    "com.google.external-dependency-manager": "1.2.161"
   },
   "author": {
     "name": "Facebook",
